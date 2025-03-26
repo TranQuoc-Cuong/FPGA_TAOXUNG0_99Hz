@@ -1,0 +1,14 @@
+-d D:\hoctap\hoctap\4nam2\hethongso\Mach_tao_song_0_99hz\impl\gwsynthesis\Mach_tao_song_0_99hz.vg
+-p GW2AR-18C-QFN88-8
+-pn GW2AR-LV18QN88C8/I7
+-cst D:\hoctap\hoctap\4nam2\hethongso\Mach_tao_song_0_99hz\src\Mach_tao_song_0_99hz.cst
+-cfg D:\hoctap\hoctap\4nam2\hethongso\Mach_tao_song_0_99hz\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-convert_sdp32_36_to_sdp16_18
+-correct_hold 1
+-route_maxfan 23
+-global_freq 100.000

@@ -1,0 +1,29 @@
+{
+ "Device" : "GW2AR-18C",
+ "Files" : [
+  {
+   "Path" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/chia_xung.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/dieu_khien_nut.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/led_7_doan.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/top_module.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

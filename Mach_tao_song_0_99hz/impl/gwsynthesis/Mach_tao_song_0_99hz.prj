@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2AR-18C" package="QFN88" speed="8" partNumber="GW2AR-LV18QN88C8/I7"/>
+    <FileList>
+        <File path="D:\hoctap\hoctap\4nam2\hethongso\Mach_tao_song_0_99hz\src\chia_xung.v" type="verilog"/>
+        <File path="D:\hoctap\hoctap\4nam2\hethongso\Mach_tao_song_0_99hz\src\dieu_khien_nut.v" type="verilog"/>
+        <File path="D:\hoctap\hoctap\4nam2\hethongso\Mach_tao_song_0_99hz\src\led_7_doan.v" type="verilog"/>
+        <File path="D:\hoctap\hoctap\4nam2\hethongso\Mach_tao_song_0_99hz\src\top_module.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="global_freq" value="100.000"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="D:\hoctap\hoctap\4nam2\hethongso\Mach_tao_song_0_99hz\impl\gwsynthesis\Mach_tao_song_0_99hz.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="vcc" value="1.0"/>
+        <Option type="vccx" value="3.3"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

@@ -1,0 +1,14 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2AR-18C" pn="GW2AR-LV18QN88C8/I7">gw2ar18c-000</Device>
+    <FileList>
+        <File path="src/chia_xung.v" type="file.verilog" enable="1"/>
+        <File path="src/dieu_khien_nut.v" type="file.verilog" enable="1"/>
+        <File path="src/led_7_doan.v" type="file.verilog" enable="1"/>
+        <File path="src/top_module.v" type="file.verilog" enable="1"/>
+        <File path="src/Mach_tao_song_0_99hz.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>

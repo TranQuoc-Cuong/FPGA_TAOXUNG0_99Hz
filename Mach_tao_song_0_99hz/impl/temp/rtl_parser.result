@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/top_module.v",
+  "InstLine" : 1,
+  "InstName" : "top_module",
+  "ModuleFile" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/top_module.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "top_module",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/top_module.v",
+    "InstLine" : 10,
+    "InstName" : "u0",
+    "ModuleFile" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/dieu_khien_nut.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "dieu_khien_nut"
+   },
+   {
+    "InstFile" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/top_module.v",
+    "InstLine" : 11,
+    "InstName" : "u1",
+    "ModuleFile" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/chia_xung.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "chia_xung"
+   },
+   {
+    "InstFile" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/top_module.v",
+    "InstLine" : 12,
+    "InstName" : "u2",
+    "ModuleFile" : "D:/hoctap/hoctap/4nam2/hethongso/Mach_tao_song_0_99hz/src/led_7_doan.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "led_7_doan"
+   }
+  ]
+ }
+]
